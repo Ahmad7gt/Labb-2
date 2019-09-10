@@ -1,0 +1,6 @@
+C:\Users\carlholmstrom\source\repos\Programmeringslabb 2\enumArray\obj\Debug\enumArray.csproj.CoreCompileInputs.cache
+C:\Users\carlholmstrom\source\repos\Programmeringslabb 2\enumArray\bin\Debug\enumArray.exe.config
+C:\Users\carlholmstrom\source\repos\Programmeringslabb 2\enumArray\bin\Debug\enumArray.exe
+C:\Users\carlholmstrom\source\repos\Programmeringslabb 2\enumArray\bin\Debug\enumArray.pdb
+C:\Users\carlholmstrom\source\repos\Programmeringslabb 2\enumArray\obj\Debug\enumArray.exe
+C:\Users\carlholmstrom\source\repos\Programmeringslabb 2\enumArray\obj\Debug\enumArray.pdb

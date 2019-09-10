@@ -1,0 +1,7 @@
+C:\Users\carlholmstrom\source\repos\Programmeringslabb 2\doubleArray\bin\Debug\doubleArray.exe.config
+C:\Users\carlholmstrom\source\repos\Programmeringslabb 2\doubleArray\bin\Debug\doubleArray.exe
+C:\Users\carlholmstrom\source\repos\Programmeringslabb 2\doubleArray\bin\Debug\doubleArray.pdb
+C:\Users\carlholmstrom\source\repos\Programmeringslabb 2\doubleArray\obj\Debug\doubleArray.csprojAssemblyReference.cache
+C:\Users\carlholmstrom\source\repos\Programmeringslabb 2\doubleArray\obj\Debug\doubleArray.csproj.CoreCompileInputs.cache
+C:\Users\carlholmstrom\source\repos\Programmeringslabb 2\doubleArray\obj\Debug\doubleArray.exe
+C:\Users\carlholmstrom\source\repos\Programmeringslabb 2\doubleArray\obj\Debug\doubleArray.pdb

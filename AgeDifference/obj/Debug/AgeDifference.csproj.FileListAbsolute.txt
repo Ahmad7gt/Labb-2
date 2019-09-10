@@ -1,0 +1,7 @@
+C:\Users\carlholmstrom\source\repos\Programmeringslabb 2\AgeDifference\bin\Debug\AgeDifference.exe.config
+C:\Users\carlholmstrom\source\repos\Programmeringslabb 2\AgeDifference\bin\Debug\AgeDifference.exe
+C:\Users\carlholmstrom\source\repos\Programmeringslabb 2\AgeDifference\bin\Debug\AgeDifference.pdb
+C:\Users\carlholmstrom\source\repos\Programmeringslabb 2\AgeDifference\obj\Debug\AgeDifference.csprojAssemblyReference.cache
+C:\Users\carlholmstrom\source\repos\Programmeringslabb 2\AgeDifference\obj\Debug\AgeDifference.csproj.CoreCompileInputs.cache
+C:\Users\carlholmstrom\source\repos\Programmeringslabb 2\AgeDifference\obj\Debug\AgeDifference.exe
+C:\Users\carlholmstrom\source\repos\Programmeringslabb 2\AgeDifference\obj\Debug\AgeDifference.pdb

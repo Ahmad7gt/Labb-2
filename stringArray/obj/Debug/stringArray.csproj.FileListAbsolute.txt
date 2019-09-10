@@ -1,0 +1,7 @@
+C:\Users\carlholmstrom\source\repos\Programmeringslabb 2\stringArray\bin\Debug\stringArray.exe.config
+C:\Users\carlholmstrom\source\repos\Programmeringslabb 2\stringArray\bin\Debug\stringArray.exe
+C:\Users\carlholmstrom\source\repos\Programmeringslabb 2\stringArray\bin\Debug\stringArray.pdb
+C:\Users\carlholmstrom\source\repos\Programmeringslabb 2\stringArray\obj\Debug\stringArray.csproj.CoreCompileInputs.cache
+C:\Users\carlholmstrom\source\repos\Programmeringslabb 2\stringArray\obj\Debug\stringArray.exe
+C:\Users\carlholmstrom\source\repos\Programmeringslabb 2\stringArray\obj\Debug\stringArray.pdb
+C:\Users\carlholmstrom\source\repos\Programmeringslabb 2\stringArray\obj\Debug\stringArray.csprojAssemblyReference.cache
