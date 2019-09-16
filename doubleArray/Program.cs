@@ -11,7 +11,9 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-               double[] height = new double[3];
+               try
+            {
+                double[] height = new double[3];
                 height[0] = 0;
                 height[1] = 0;
                 height[2] = 0;
@@ -46,6 +48,13 @@ namespace ConsoleApplication1
                 
                 Console.ReadKey();
 
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message + "Please type in numbers instead of letters.");
+            }
+
+            Console.ReadKey();
         }
     }
 }
